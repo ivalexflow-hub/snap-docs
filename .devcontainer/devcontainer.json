@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+"ghcr.io/marcozac/devcontainer-features/atlas:1": {}
+"ghcr.io/devcontainers-extra/features/bandit:2": {}
+cr.io/devcontainers-extra/features/ballerina-sdkman:2": {}
+"ghcr.io/roul/devcontainer-features/bitwarden-secrets-manager:1": {}
+"ghcr.io/joedmck/devcontainer-features/cdktf:1": {}
+"ghcr.io/joshspicer/more-features/cowsay:1": {}
+"ghcr.io/bdsoha/devcontainers/custom-root-ca:1": {}
+"ghcr.io/devcontainers-extra/features/epinio:1": {}
